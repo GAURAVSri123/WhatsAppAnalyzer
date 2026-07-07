@@ -1,5 +1,7 @@
-# Check the App on your own <br>
+# 📱 WhatsApp Chat Analyzer
 
 ## 🌐 Live Demo
 
-[Open WhatsApp Analyzer](https://whatsappanalyzer-12gaurav.streamlit.app/)
+<a href="https://whatsappanalyzer-12gaurav.streamlit.app/" target="_blank">
+🚀 Open WhatsApp Analyzer
+</a>
