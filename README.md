@@ -1,3 +1,5 @@
 # Check the App on your own <br>
 
-(https://whatsappanalyzer-12gaurav.streamlit.app/)
+## 🌐 Live Demo
+
+[Open WhatsApp Analyzer](https://whatsappanalyzer-12gaurav.streamlit.app/)
