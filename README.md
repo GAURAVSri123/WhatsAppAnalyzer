@@ -3,5 +3,5 @@
 ## 🌐 Live Demo
 
 <a href="https://whatsappanalyzer-12gaurav.streamlit.app/" target="_blank">
-🚀 Open WhatsApp Analyzer
+Open WhatsApp Analyzer
 </a>
