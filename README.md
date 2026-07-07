@@ -1,7 +1,6 @@
-# 📱 WhatsApp Chat Analyzer
 
-## 🌐 Live Demo
 
-<a href="https://whatsappanalyzer-12gaurav.streamlit.app/" target="_blank">
-Open WhatsApp Analyzer
+## Check the Demo <br>
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://whatsappanalyzer-12gaurav.streamlit.app/)
 </a>
